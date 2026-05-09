@@ -1,1 +1,1 @@
-# interface-radioButton
+Ce programme Java Swing crée une fenêtre contenant trois boutons radio (JRadioButton) et un bouton Etat. Les boutons radio sont placés dans un ButtonGroup, ce qui permet de choisir une seule option à la fois. Lorsqu’on clique sur un bouton radio, un message s’affiche dans la console. En cliquant sur le bouton Etat, le programme affiche l’état des trois boutons (true ou false) pour savoir lequel est sélectionné.
